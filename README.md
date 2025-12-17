@@ -1,1 +1,1 @@
-https://4niiis.github.io/zakrivayuschiy-teg-f/
+https://github.com/4niiis/zakrivayuschiy-teg-f.git
