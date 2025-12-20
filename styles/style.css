@@ -268,6 +268,7 @@
 .button {
   background-color: #fff;
   border: 2px solid #000;
+  transition: box-shadow 0.3s ease;
 }
 
 .card__like-button {
@@ -275,7 +276,6 @@
   padding: 0;
   inline-size: 130px;
   block-size: 38px;
-  transition: box-shadow 0.3s ease;
   overflow: hidden;
 }
 
@@ -326,7 +326,6 @@
   align-content: center;
   justify-items: center;
   align-items: center;
-  transition: box-shadow 0.3s ease;
   position: relative;
   overflow: hidden;
   gap: 8px;
